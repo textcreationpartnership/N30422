@@ -121,14 +121,14 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:040398_0000_1015E49D1675E890"/>
-            <pb facs="tcp:040398_0001_1015BE33F726D5E0"/>
+            <pb facs="unknown:040398_0000_1015E49D1675E890"/>
+            <pb facs="unknown:040398_0001_1015BE33F726D5E0"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:040398_0002_1015E4008DC1C638"/>
+            <pb facs="unknown:040398_0002_1015E4008DC1C638"/>
             <p>THE HISTORY OF THE HOLY <hi>JESUS.</hi>
             </p>
             <p>CONTAININ'G</p>
@@ -145,7 +145,7 @@
             <p>BOSTON, Printed for B. GRAY; on the North Side of the Market<g ref="char:punc">▪</g> 1746.</p>
          </div>
          <div type="illustration">
-            <pb facs="tcp:040398_0003_1015E402EC4DCFE8"/>
+            <pb facs="unknown:040398_0003_1015E402EC4DCFE8"/>
             <p>
                <figure>
                   <head>
@@ -158,7 +158,7 @@
       <body>
          <div type="text">
             <div type="introduction">
-               <pb facs="tcp:040398_0004_1015E4074960CD78"/>
+               <pb facs="unknown:040398_0004_1015E4074960CD78"/>
                <head>The Introduction.</head>
                <lg>
                   <l>THE great eternal God, who made</l>
@@ -200,7 +200,7 @@
                      </gap> eat immediately.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0005_1015E409215C6F90"/>
+                  <pb facs="unknown:040398_0005_1015E409215C6F90"/>
                   <l>And thus he broke his Lord's Commands,</l>
                   <l>And Death did thence enſue,</l>
                   <l>And thus Death comes, my Children <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -246,11 +246,11 @@
                   <l>To ſave his Creature Man.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0006_1015E40C89096E48"/>
+                  <pb facs="unknown:040398_0006_1015E40C89096E48"/>
                   <figure/>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0007_1015E40F3071E6B8"/>
+                  <pb facs="unknown:040398_0007_1015E40F3071E6B8"/>
                   <l>The glorious bleſſed Time being come,</l>
                   <l>The Father had decreed,</l>
                   <l>JESUS of <hi>Mary</hi> then was born,</l>
@@ -283,21 +283,21 @@
                      <hi>Bethlehem</hi> ſhould be ſlain.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0008_1015E41270660F78"/>
+                  <pb facs="unknown:040398_0008_1015E41270660F78"/>
                   <figure>
                      <head>Wiſe Men come from the Eaſt, <hi>&amp;c.</hi>
                      </head>
                   </figure>
                </p>
                <p>
-                  <pb facs="tcp:040398_0009_1015E414B7BAF7C0"/>
+                  <pb facs="unknown:040398_0009_1015E414B7BAF7C0"/>
                   <figure>
                      <head>
                         <hi>Herod</hi> ſlaying the innocent Children.</head>
                   </figure>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0010_1015E4172C19F678"/>
+                  <pb facs="unknown:040398_0010_1015E4172C19F678"/>
                   <l>But O to hear the awful Cries</l>
                   <l>Of Mother's in Diſtreſs,</l>
                   <l>And <hi>Rachel</hi> mourn for her Firſt-born</l>
@@ -338,7 +338,7 @@
                   <l>And <hi>John</hi> baptiz'd him there.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0011_1015E41986FA3588"/>
+                  <pb facs="unknown:040398_0011_1015E41986FA3588"/>
                   <l>Now as he from the Waters came,</l>
                   <l>He lifts his Soul in Prayer,</l>
                   <l>And gloriouſly the Holy Ghoſt</l>
@@ -369,7 +369,7 @@
                   <l>But Chriſt o'ercomes at laſt.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0012_1015E41B0D503400"/>
+                  <pb facs="unknown:040398_0012_1015E41B0D503400"/>
                   <l>And after this our Lord returns</l>
                   <l>Again to <hi>Galilee,</hi>
                   </l>
@@ -401,7 +401,7 @@
                   <l>He comes to him by Night.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0013_1015E41FE1AB9548"/>
+                  <pb facs="unknown:040398_0013_1015E41FE1AB9548"/>
                   <l>To whom our bleſſed Lord declar'd,</l>
                   <l>Upon his ſacred Word,</l>
                   <l>Unleſs that he was born again,</l>
@@ -432,7 +432,7 @@
                   <l>The Prophets ſaid ſhould come.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0014_1015E42165C5FF88"/>
+                  <pb facs="unknown:040398_0014_1015E42165C5FF88"/>
                   <l>Again, a noble Man of Fame,</l>
                   <l>Hearing of Chriſt the Lord,</l>
                   <l>Beſought him earneſtly that he</l>
@@ -466,7 +466,7 @@
                      </gap>d to teach.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0015_1015E42482F26CD0"/>
+                  <pb facs="unknown:040398_0015_1015E42482F26CD0"/>
                   <figure/>
                </p>
                <lg>
@@ -487,7 +487,7 @@
                   <l>And thus unwearied did our Lord,</l>
                   <l>Go round from Place to Place,</l>
                   <l>
-                     <pb facs="tcp:040398_0016_1015E42788F699F8"/>
+                     <pb facs="unknown:040398_0016_1015E42788F699F8"/>
 Declaring to a ſinful World,</l>
                   <l>
                      <gap reason="illegible" resp="#AELD" extent="1 word">
@@ -500,7 +500,7 @@ Declaring to a ſinful World,</l>
                   </figure>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0017_1015E4290D2FCB20"/>
+                  <pb facs="unknown:040398_0017_1015E4290D2FCB20"/>
                   <l>Away to <hi>Galilee</hi> he goes,</l>
                   <l>In Synagogue doth teach,</l>
                   <l>Both working mighty Miracles,</l>
@@ -533,15 +533,15 @@ Declaring to a ſinful World,</l>
                   <l>Speaks Comfort unto you;</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0018_1015E42BA5B2B608"/>
+                  <pb facs="unknown:040398_0018_1015E42BA5B2B608"/>
                   <figure/>
                </p>
                <p>
-                  <pb facs="tcp:040398_0019_1015E42DFA71AF68"/>
+                  <pb facs="unknown:040398_0019_1015E42DFA71AF68"/>
                   <figure/>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0020_1015E430381E7480"/>
+                  <pb facs="unknown:040398_0020_1015E430381E7480"/>
                   <l>Who from your God have gone aſtary,</l>
                   <l>By the Apoſtacy,</l>
                   <l>And if you will but now return</l>
@@ -572,7 +572,7 @@ Declaring to a ſinful World,</l>
                   <l>No Lack was there at all.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0021_1015E432C061A418"/>
+                  <pb facs="unknown:040398_0021_1015E432C061A418"/>
                   <l>And now a King they fain would have</l>
                   <l>The Lord, our Lord, to be;</l>
                   <l>But lo, he doth refuſe the ſame,</l>
@@ -604,7 +604,7 @@ Declaring to a ſinful World,</l>
                   <l>Sweet Jeſus in his Way.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0022_1015E43468442AA0"/>
+                  <pb facs="unknown:040398_0022_1015E43468442AA0"/>
                   <l>As to <hi>Jeruſalem</hi> he went,</l>
                   <l>Wherefore<g ref="char:punc">▪</g> his Friends deſire,</l>
                   <l>That down from Heaven he would call</l>
@@ -635,7 +635,7 @@ Declaring to a ſinful World,</l>
                   <l>Where he had lain four Days.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0023_1015E4379E166480"/>
+                  <pb facs="unknown:040398_0023_1015E4379E166480"/>
                   <l>
                      <hi>Zaccheus</hi> he now climbs a Tree,</l>
                   <l>To ſee the bleſſed Lord,</l>
@@ -668,11 +668,11 @@ Declaring to a ſinful World,</l>
                   <l>And makes the Dumb to ſhout.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0024_1015E43AAFACD968"/>
+                  <pb facs="unknown:040398_0024_1015E43AAFACD968"/>
                   <figure/>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0025_1015E43CF6738F58"/>
+                  <pb facs="unknown:040398_0025_1015E43CF6738F58"/>
                   <l>And as ſweet Jeſus walk'd along,</l>
                   <l>A Fig-tree he eſpies,</l>
                   <l>And for it's barren Fruitleſſneſs</l>
@@ -694,7 +694,7 @@ Declaring to a ſinful World,</l>
                   <l>With his Diſciples there.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0026_1015E43EC3F9B340"/>
+                  <pb facs="unknown:040398_0026_1015E43EC3F9B340"/>
                   <l>And then the Lord did inſtitute</l>
                   <l>The ſacramental Feaſt,</l>
                   <l>Of his dear Body, and his Blood,</l>
@@ -725,7 +725,7 @@ Declaring to a ſinful World,</l>
                   <l>Smote with accurſed Hands.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0027_1015BE2CF58DABC8"/>
+                  <pb facs="unknown:040398_0027_1015BE2CF58DABC8"/>
                   <l>o ſee his dear and lovely Face,</l>
                   <l>Which like an Angel ſhone,</l>
                   <l>By baſe, vile, filthy, wretched Men</l>
@@ -753,11 +753,11 @@ Declaring to a ſinful World,</l>
                   <l>As tho' if had been Night.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0028_1015E441E643C6C0"/>
+                  <pb facs="unknown:040398_0028_1015E441E643C6C0"/>
                   <figure/>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0029_1015E4442A28CD08"/>
+                  <pb facs="unknown:040398_0029_1015E4442A28CD08"/>
                   <l>And now my Lambs attend the Voice</l>
                   <l>Of Chirſt in's Agony;</l>
                   <l>
@@ -787,7 +787,7 @@ Declaring to a ſinful World,</l>
                   <l>In offering up his Son.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0030_1015E446803738B8"/>
+                  <pb facs="unknown:040398_0030_1015E446803738B8"/>
                   <figure>
                      <head>
                         <hi>Abraham</hi> offering up his Son <hi>Iſaac.</hi>
@@ -795,7 +795,7 @@ Declaring to a ſinful World,</l>
                   </figure>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0031_1015E449F6F6E088"/>
+                  <pb facs="unknown:040398_0031_1015E449F6F6E088"/>
                   <l>But O amidſt his mighty Thirſt,</l>
                   <l>And dolorous, Out-cry,</l>
                   <l>They gave him Vinegar and Gall,</l>
@@ -826,11 +826,11 @@ Declaring to a ſinful World,</l>
                   <l>They altogether meet.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0032_1015E44D0A157390"/>
+                  <pb facs="unknown:040398_0032_1015E44D0A157390"/>
                   <figure/>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0033_1015E44F5BAC80D0"/>
+                  <pb facs="unknown:040398_0033_1015E44F5BAC80D0"/>
                   <l>Behold his dear and lovely Head</l>
                   <l>Fell on his bleeding Breaſt<g ref="char:punc">▪</g>
                   </l>
@@ -874,7 +874,7 @@ Declaring to a ſinful World,</l>
                   <l>And ſit down at the Door.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0034_1015E450E0993ED0"/>
+                  <pb facs="unknown:040398_0034_1015E450E0993ED0"/>
                   <figure/>
                </p>
                <lg>
@@ -890,7 +890,7 @@ Declaring to a ſinful World,</l>
                   <l>Had now aroſe again.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0035_1015E4532D6258E0"/>
+                  <pb facs="unknown:040398_0035_1015E4532D6258E0"/>
                   <l>And for a Witneſs to the Truth</l>
                   <l>Of what they did declare,</l>
                   <l>The riſen Jeſus graciouſly</l>
@@ -922,7 +922,7 @@ Declaring to a ſinful World,</l>
                   <l>And bleſſeth them likewiſe.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0036_1015E45687F79CA0"/>
+                  <pb facs="unknown:040398_0036_1015E45687F79CA0"/>
                   <l>And while they ſtedfaſtly beheld</l>
                   <l>The glorious Lord of Light,</l>
                   <l>He's taken up, and lo a Cloud</l>
@@ -953,7 +953,7 @@ Declaring to a ſinful World,</l>
                   <l>In Royalty ſet down.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0037_1015E45989539A90"/>
+                  <pb facs="unknown:040398_0037_1015E45989539A90"/>
                   <l>Set down upon his royal Seat,</l>
                   <l>The Father had prepar'd;</l>
                   <l>With glorious Proclamation which</l>
@@ -988,11 +988,11 @@ Declaring to a ſinful World,</l>
                   <l>To judge a World of Men.</l>
                </lg>
                <p>
-                  <pb facs="tcp:040398_0038_1015E45BCA434608"/>
+                  <pb facs="unknown:040398_0038_1015E45BCA434608"/>
                   <figure/>
                </p>
                <lg>
-                  <pb facs="tcp:040398_0039_1015E45E998B1000"/>
+                  <pb facs="unknown:040398_0039_1015E45E998B1000"/>
                   <l>The Trump which <hi>Gabriel</hi> ſhall ſound,</l>
                   <l>Will be ſo ſhrill and clear,</l>
                   <l>That every Soul in Heav'n and Earth,</l>
@@ -1025,7 +1025,7 @@ Declaring to a ſinful World,</l>
                   <l>"Into the Fire of Hell.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0040_1015E460E36AB238"/>
+                  <pb facs="unknown:040398_0040_1015E460E36AB238"/>
                   <l>And now, dear Children, for whoſe Sakes</l>
                   <l>This little Book I've penn'd,</l>
                   <l>O be entreated now to make</l>
@@ -1051,7 +1051,7 @@ Declaring to a ſinful World,</l>
                </lg>
             </div>
             <div type="poem">
-               <pb facs="tcp:040398_0041_1015E4631F90C7B0"/>
+               <pb facs="unknown:040398_0041_1015E4631F90C7B0"/>
                <head>Delight in the LORD JESUS.</head>
                <lg>
                   <l>WHEN abſent my dear Saviour is,</l>
@@ -1089,7 +1089,7 @@ Declaring to a ſinful World,</l>
                   <l>I'm fix'd as firm as any Rock.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0042_1015E464A362CEB0"/>
+                  <pb facs="unknown:040398_0042_1015E464A362CEB0"/>
                   <l>If my dear Saviour lets me fall,</l>
                   <l>My Sins I to remembrance call;</l>
                   <l>But if he keeps me on my Way,</l>
@@ -1121,7 +1121,7 @@ Declaring to a ſinful World,</l>
                </lg>
             </div>
             <div type="hymn">
-               <pb facs="tcp:040398_0043_1015E4662A007CB8"/>
+               <pb facs="unknown:040398_0043_1015E4662A007CB8"/>
                <head>HYMN II.</head>
                <head>Abſence of CHRIST intolerable.</head>
                <lg>
@@ -1150,7 +1150,7 @@ Declaring to a ſinful World,</l>
                   <l>And if he leave me all alone</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0044_1015E469615318F0"/>
+                  <pb facs="unknown:040398_0044_1015E469615318F0"/>
                   <l>My Luſts they rage, Corruptions ſwell,</l>
                   <l>As if they'd drive me down to Hell.</l>
                   <l>Yea, helpleſs alſo I become,</l>
@@ -1181,7 +1181,7 @@ Declaring to a ſinful World,</l>
                   <l>He'll ſoon deſtroy my Guilt and Sin.</l>
                </lg>
                <lg>
-                  <pb facs="tcp:040398_0045_1015E46D68167768"/>
+                  <pb facs="unknown:040398_0045_1015E46D68167768"/>
                   <l>If he his Garment ſpread o'er me,</l>
                   <l>My God in me no Guilt will ſee;</l>
                   <l>If he this Garden doth but dreſs,</l>
@@ -1215,7 +1215,7 @@ Declaring to a ſinful World,</l>
                   <l>
                      <hi>G</hi>reat Grace likewiſe, to their Surprize.</l>
                   <l>
-                     <pb facs="tcp:040398_0046_1015E46EECCE7968"/>
+                     <pb facs="unknown:040398_0046_1015E46EECCE7968"/>
                      <hi>H</hi>eaven herein view, and Glory too.</l>
                   <l>
                      <hi>J</hi>eſus with Charms, in Faith's ſtrong Arms.</l>
